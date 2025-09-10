@@ -1,8 +1,6 @@
 
-<<<<<<< HEAD
 ## Expense Tracker (Flutter)
-=======
-# Expense_Tracker
+
 
 A simple, responsive expense tracking app built with Flutter. Add expenses with title, amount, date, and category; view a list of expenses and a summary chart. Dark mode is supported via system theme.
 
@@ -35,7 +33,6 @@ lib/
 
 ## Getting Started
 
-<<<<<<< HEAD
 ### Prerequisites
 
 - Flutter SDK installed and on PATH (`flutter --version`)
